@@ -142,9 +142,8 @@ div.video {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #0000004f;
+    background-color: #0000001e;
     margin-bottom: 30px;
-    padding: 10px;
     border-radius: 10px;
 }
 
