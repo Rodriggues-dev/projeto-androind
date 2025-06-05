@@ -16,7 +16,7 @@
 :root {
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
     --fonte-destaque: 'Bebas Neue', cursive;
-    --fonte-android: 'Android', Arial;
+    --fonte-android: 'Android', var(--fonte-padrao);
 
     --cor-padrao: #ffffff;
     --cor0: #7EF573;
