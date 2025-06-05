@@ -67,6 +67,7 @@ nav> a {
     text-decoration: none;
     font-weight: bold;
     transition-duration: 0.5s;
+    margin: auto;
 }
 
 nav > a:hover {
@@ -145,11 +146,7 @@ div.video {
     background-color: #0000001e;
     padding: 10px;
     border-radius: 5px;
-    margin-bottom: 30px;
-    
-}
-div iframe {
-    margin: auto;
+    margin-bottom: 30px;   
 }
 
 aside {
