@@ -143,7 +143,13 @@ div.video {
     justify-content: center;
     align-items: center;
     background-color: #0000001e;
+    padding: 10px;
+    border-radius: 5px;
     margin-bottom: 30px;
+    
+}
+div iframe {
+    margin: auto;
 }
 
 aside {
