@@ -143,10 +143,11 @@ div.video {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #0000001e;
-    padding: 10px;
-    border-radius: 5px;
     margin-bottom: 30px;   
+}
+
+iframe {
+    box-shadow: 5px 5px 7px #0000004b;
 }
 
 aside {
